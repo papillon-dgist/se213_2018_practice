@@ -1,0 +1,13 @@
+t1 = [42, 1024, 23]
+t1.reverse()
+print(t1)
+t1.sort()
+print(t1)
+t1.insert(1,6)
+print(t1)
+t1.remove(42)
+print(t1)
+t1.sort(reverse=True)
+print(t1)
+t1.clear()
+print(t1)
